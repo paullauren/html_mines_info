@@ -1,1 +1,1 @@
-# html_mines_info
+# Page Internet: scrawny-party.surge.sh
