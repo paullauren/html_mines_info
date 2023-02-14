@@ -1,1 +1,1 @@
-[Click here for the page] (https://scrawny-party.surge.sh)
+[Click here for the page](https://scrawny-party.surge.sh)
